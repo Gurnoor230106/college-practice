@@ -1,2 +1,2 @@
 # My Project
-This project demonstrates Git features and its uses
+This project demonstrates Git features and its uses.
